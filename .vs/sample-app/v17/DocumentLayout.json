@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\userservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|solutionrelative:sample-app.client\\src\\userservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|solutionrelative:sample-app.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|solutionrelative:sample-app.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\components\\userlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBF41889-AFAD-4108-A926-482AA369BBC0}|sample-app.client\\sample-app.client.esproj|solutionrelative:sample-app.client\\src\\components\\userlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\sample-app.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\sample-app.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|c:\\users\\harsh.000\\downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037489D-0D3E-4633-A4FE-B2F4891DE280}|sample-app.Server\\sample-app.Server.csproj|solutionrelative:sample-app.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "sample-app.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\appsettings.json",
+              "RelativeToolTip": "sample-app.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T04:08:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "sample-app.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\main.jsx",
+              "RelativeToolTip": "sample-app.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-24T02:58:37.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "sample-app.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\App.jsx",
+              "RelativeToolTip": "sample-app.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-24T03:28:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.js",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\UserService.js",
+              "RelativeDocumentMoniker": "sample-app.client\\src\\UserService.js",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\UserService.js",
+              "RelativeToolTip": "sample-app.client\\src\\UserService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T03:27:18.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "sample-app.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "sample-app.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T03:48:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Program.cs",
+              "RelativeDocumentMoniker": "sample-app.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Program.cs",
+              "RelativeToolTip": "sample-app.Server\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:22:04.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "sample-app.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Startup.cs",
+              "RelativeToolTip": "sample-app.Server\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:16:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "sample-app.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "sample-app.Server\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:17:06.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "sample-app.Server\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "sample-app.Server\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:07:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserList.jsx",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\components\\UserList.jsx",
+              "RelativeDocumentMoniker": "sample-app.client\\src\\components\\UserList.jsx",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.client\\src\\components\\UserList.jsx",
+              "RelativeToolTip": "sample-app.client\\src\\components\\UserList.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-24T03:28:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "sample-app.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\Models\\User.cs",
+              "RelativeToolTip": "sample-app.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:05:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sample-app.Server",
+              "DocumentMoniker": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\sample-app.Server.csproj",
+              "RelativeDocumentMoniker": "sample-app.Server\\sample-app.Server.csproj",
+              "ToolTip": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp\u002Breact\\sample-app\\sample-app.Server\\sample-app.Server.csproj",
+              "RelativeToolTip": "sample-app.Server\\sample-app.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T03:04:30.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
