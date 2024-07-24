@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "WvBL2s08pv8Ge4X3GcAjHGThFQmXIq5WPTr72EzkT5I=",
+  "Source": "sample-app.Server",
+  "BasePath": "_content/sample-app.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Harsh.000\\Downloads\\freelancer\\asp+react\\sample-app\\sample-app.client\\sample-app.client.esproj",
+      "Version": 2,
+      "Source": "sample-app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
